@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'rotunda';
+  font-style: normal;
+  font-display: swap;
+  font-weight: normal;
+  src: url('../fonts/4a-rotunda-regular-web.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'rotunda';
+  font-style: normal;
+  font-display: swap;
+  font-weight: bold;
+  src: url('../fonts/5a-rotunda-medium-web.woff2') format('woff2');
+}
